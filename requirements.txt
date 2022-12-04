@@ -1,0 +1,17 @@
+numpy
+scipy
+pillow
+torch
+torchvision
+decorator 
+attrs
+tornado
+psutil
+xgboost 
+cloudpickle
+onnx
+onnxoptimizer
+tqdm
+time
+onnxruntime
+nvidia-tensorrt
